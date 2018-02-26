@@ -1,2 +1,2 @@
 SAMPLE FILE BEING USED FOR LEARNING GIT. 
-Branch b1 : Line added
+Branch b2 : Line added: I want to merge with my master 
